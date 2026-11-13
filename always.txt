@@ -47,3 +47,11 @@ NixOS/nixos-hardware
 numtide/treefmt-nix
 ryantm/agenix
 # keep-sorted end
+
+# Personal pinned flakes fot my daily needs
+# keep-sorted start case=no
+blip-net/nix
+manic-systems/rom
+free-explorers/veshell
+chaotic-cx/nyx/nyxpkgs-unstable
+# keep-sorted end
