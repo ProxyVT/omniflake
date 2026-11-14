@@ -3,22 +3,21 @@
     "cc-switch-x86_64": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-+U732kyc5rUPE9voYah0pHM7N/vHRgFvfGYSEIqyJQQ=",
+        "narHash": "sha256-vzRDZyTV1KXvyfi6dS+ydZ+4FtLJtwFzk8LLeMsV90M=",
         "type": "file",
-        "url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.21/CC-Switch-v4.0.21-Linux-x86_64.deb"
+        "url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.31/CC-Switch-v4.0.31-Linux-x86_64.deb"
       },
       "original": {
         "type": "file",
-        "url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.21/CC-Switch-v4.0.21-Linux-x86_64.deb"
+        "url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.31/CC-Switch-v4.0.31-Linux-x86_64.deb"
       }
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1793225069,
-        "narHash": "sha256-sx1f99WGrDfJ83KKuQrqGPmot0rnDgmpLJDzpU2oHQQ=",
+        "lastModified": 1794495034,
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "e62746b0b472753ef019baceab6f1e2e52014980",
+        "rev": "2074cc672349f14240fb7ea90d509e0b643e9dd4",
         "type": "github"
       },
       "original": {

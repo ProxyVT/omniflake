@@ -54,4 +54,5 @@ blip-net/nix
 manic-systems/rom
 free-explorers/veshell
 chaotic-cx/nyx/nyxpkgs-unstable
+DeterminateSystems/determinate
 # keep-sorted end

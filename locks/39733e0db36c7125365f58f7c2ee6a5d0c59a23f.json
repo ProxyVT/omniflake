@@ -9,7 +9,6 @@
       },
       "locked": {
         "lastModified": 1779481813,
-        "narHash": "sha256-fo5Bj5he2rFdtdjHrFcnv66IRIyLYOxPiYE0b0Jplas=",
         "owner": "OlaProeis",
         "repo": "Ferrite",
         "rev": "ac4f36695e5b60a0a41fe64a458e0c2279fca13c",
@@ -42,11 +41,10 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1793183032,
-        "narHash": "sha256-56mFMf8heLNfYhcgbrh4GpN5x+G9JOfTFXZC3n6w0qM=",
+        "lastModified": 1794552581,
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "08d3a97586f6b6343b3b5e799980773629432610",
+        "rev": "f1e5c356f35d07e7b71a6b5e6c9338e0b029e0c0",
         "type": "github"
       },
       "original": {
