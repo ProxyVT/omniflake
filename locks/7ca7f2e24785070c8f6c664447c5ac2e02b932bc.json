@@ -12,7 +12,6 @@
       },
       "locked": {
         "lastModified": 1784665499,
-        "narHash": "sha256-9BMxlTxCCDAeoNLtb1a/st7udtTIJep+wpUzquA29VU=",
         "owner": "nix-community",
         "repo": "bun2nix",
         "rev": "0f2a1f0b6f42cebe3b149bf62d38754c5e0e9729",
@@ -51,11 +50,10 @@
         "systems": "systems_2"
       },
       "locked": {
-        "lastModified": 1791914995,
-        "narHash": "sha256-Zf/xfQEAasnwnmEfHqW/4hjDE/s44yn2hD4RuVIZRjA=",
+        "lastModified": 1794427683,
         "owner": "numtide",
         "repo": "flake-utils",
-        "rev": "b7a79d3fea1e214f6d668d521cecec0c01e26544",
+        "rev": "cd489559845d81f673a12885576016c65cbe9363",
         "type": "github"
       },
       "original": {
@@ -73,11 +71,10 @@
         ]
       },
       "locked": {
-        "lastModified": 1785524079,
-        "narHash": "sha256-S8tTkntKhI5dh4GY/fQZ8adV1inH9wRLedf8Msf0Xpc=",
+        "lastModified": 1794620861,
         "owner": "Cyberboss",
         "repo": "gitea-mirror",
-        "rev": "c5c77cf42e33a81daa8017dfe033d46c29a935ed",
+        "rev": "d24abbe532fc44589c6bed40890c5c18c200617a",
         "type": "github"
       },
       "original": {
@@ -89,11 +86,10 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1793345420,
-        "narHash": "sha256-e/yiZ31gXRROBDcnOtT3YwDQ73NVG9Cepccbt86LIn8=",
+        "lastModified": 1794554816,
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "885ba4d038f10c3d17d7a92e8c3cc185b99c9158",
+        "rev": "e126e9e73c335158ff8279ac14d5f4afec153716",
         "type": "github"
       },
       "original": {
@@ -106,7 +102,6 @@
     "resonite-dominion": {
       "locked": {
         "lastModified": 1789769785,
-        "narHash": "sha256-9xuxSbxI3R0lCLY0gKWqnel1EUpGxTLkHzoQji61+uM=",
         "owner": "Cyberboss",
         "repo": "resonite-dominion",
         "rev": "d8f28be60021b38b29b80353c22771d1b20926e6",
@@ -120,11 +115,10 @@
     },
     "resonite-headless": {
       "locked": {
-        "lastModified": 1791690649,
-        "narHash": "sha256-gVtTbuAwMBMwm3ix0DPL0vwaBr+9GZSvjld8VufhO3s=",
+        "lastModified": 1794358530,
         "owner": "Cyberboss",
         "repo": "resonite-headless-nix",
-        "rev": "6d816194cf1aadf647e67c1ba95801ecf7332b42",
+        "rev": "f85c0c39e983256b3f09d4fb95cc4e413678083d",
         "type": "github"
       },
       "original": {
@@ -149,11 +143,10 @@
         ]
       },
       "locked": {
-        "lastModified": 1793052255,
-        "narHash": "sha256-Y/JIHTnMlOabDfyaSBubWGLDIVGihLEUuoMhFvQKaDo=",
+        "lastModified": 1794624949,
         "owner": "Mic92",
         "repo": "sops-nix",
-        "rev": "60182817ee048ac94b4c68ea76d5ef2e8aac730d",
+        "rev": "11e5885d241743ff0193465d533b20e754bc3ce0",
         "type": "github"
       },
       "original": {
@@ -179,11 +172,11 @@
     },
     "systems_2": {
       "locked": {
-        "lastModified": 1681028828,
-        "narHash": "sha256-Vy1rq5AaRuLzOxct8nz4T6wlgyUR7zLU309k9mBC768=",
+        "lastModified": 1791244623,
+        "narHash": "sha256-uuanbkFk8a313Zfrxdcz8Us/yQtaxNnKJtX8v0ZPpd8=",
         "owner": "nix-systems",
         "repo": "default",
-        "rev": "da67096a3b9bf56a91d16901293e51ba5b49a27e",
+        "rev": "d36eeed142f88b5a636f2e3856a53c61654cf29b",
         "type": "github"
       },
       "original": {

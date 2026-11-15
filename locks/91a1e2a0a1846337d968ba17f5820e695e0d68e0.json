@@ -6,7 +6,6 @@
       },
       "locked": {
         "lastModified": 1782098990,
-        "narHash": "sha256-cdzwG8NRXtwlG25Tjfvscx9nKllZbNbEHvK/q7Sdmak=",
         "owner": "emacs-twist",
         "repo": "elisp-helpers",
         "rev": "6ed8c5617af3d62a456ad1407c2e22feefd48b1b",

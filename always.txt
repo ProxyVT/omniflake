@@ -50,9 +50,19 @@ ryantm/agenix
 
 # Personal pinned flakes fot my daily needs
 # keep-sorted start case=no
+0xShug0/audio.cpp
 blip-net/nix
-manic-systems/rom
-free-explorers/veshell
-chaotic-cx/nyx/nyxpkgs-unstable
+chaotic-cx/nyx
 DeterminateSystems/determinate
+free-explorers/veshell
+fzakaria/nixpkgs-multiverse
+gmodena/nix-flatpak
+manic-systems/rom
+Mexit/MultiOS-USB
+nab138/iloader
+nix-community/home-manager
+nix-community/nix-init
+nix-community/nix-vscode-extensions
+ryantm/agenix
+yshui/picom
 # keep-sorted end
