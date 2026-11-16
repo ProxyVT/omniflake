@@ -60,9 +60,8 @@ gmodena/nix-flatpak
 manic-systems/rom
 Mexit/MultiOS-USB
 nab138/iloader
-nix-community/home-manager
+nix-community/impermanence
 nix-community/nix-init
 nix-community/nix-vscode-extensions
-ryantm/agenix
 yshui/picom
 # keep-sorted end
