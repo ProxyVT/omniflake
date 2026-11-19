@@ -13,7 +13,6 @@
       },
       "locked": {
         "lastModified": 1775689345,
-        "narHash": "sha256-tM3s7CX+tgxlYW0Sk3nzVThg2MHn08foIuMxABupxIs=",
         "owner": "aylur",
         "repo": "ags",
         "rev": "bbee2f18939f1ec7ff720e717cf305e73635628f",
@@ -34,11 +33,10 @@
         ]
       },
       "locked": {
-        "lastModified": 1790193629,
-        "narHash": "sha256-u8CMQ5ODv9Q+mHgx1QDgSDeMANprWTfZ+owxXNhu8Pc=",
+        "lastModified": 1794133227,
         "owner": "aylur",
         "repo": "astal",
-        "rev": "cbcd9f49dd6b9638dc5623b56cc6e1e0a60b593e",
+        "rev": "b7aaf4ce69ebb3c5b1818d524e04b23bc755a97d",
         "type": "github"
       },
       "original": {
@@ -55,7 +53,6 @@
       },
       "locked": {
         "lastModified": 1735477496,
-        "narHash": "sha256-EylCKeQ9OOU1WA1oTmVnT5/yGeSrsPWo5TCtZaKfeHg=",
         "owner": "plsmphnx",
         "repo": "exec-util",
         "rev": "f7e82c299cb81f9965a7656a8a9c7175099639f1",
@@ -69,11 +66,12 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1793735720,
-        "narHash": "sha256-WqewjvVjGQ1yhAvxeZW7IKoIT08vUNfyaeZewOwyYxg=",
-        "rev": "9d3b8db48266c17be0b5f9c6360c3ecfbac3d1f5",
+        "lastModified": 1794042290,
+        "narHash": "sha256-ziZn2PvCJE5JEEpqTdxXwJpPB+L3YqoCpTAMCzyaP3U=",
+        "rev": "f4a03c008967841f2a0b3cb7c436fc6fc31671f6",
+        "revCount": 1113206,
         "type": "tarball",
-        "url": "https://releases.nixos.org/nixpkgs/nixpkgs-26.11pre1107841.9d3b8db48266/nixexprs.tar.zst"
+        "url": "https://api.flakehub.com/f/pinned/DeterminateSystems/nixpkgs-weekly/0.1.1113206%2Brev-f4a03c008967841f2a0b3cb7c436fc6fc31671f6/01a1e7ff-6305-7ad2-bb1f-9855526cb446/source.tar.gz"
       },
       "original": {
         "id": "nixpkgs",
@@ -98,7 +96,6 @@
       },
       "locked": {
         "lastModified": 1790151354,
-        "narHash": "sha256-geZVnJrHnvPcrU4GGPnFpIeBtt16Ar9Ww6zsB5tKXZU=",
         "owner": "plsmphnx",
         "repo": "shell",
         "rev": "09231b0f03e5883f8f38a7907e1d3c95401837e4",
@@ -117,11 +114,10 @@
         ]
       },
       "locked": {
-        "lastModified": 1793673427,
-        "narHash": "sha256-c316nHTJLFlQRaK3fcqIogKMCRdEEtvj1JgZRxBJ9bY=",
+        "lastModified": 1794620307,
         "owner": "plsmphnx",
         "repo": "theme",
-        "rev": "28f54f2b691783c4ec2da1f75daf3a34745f46d4",
+        "rev": "efaf6592e9d5846e1a49559545b25400320750d1",
         "type": "github"
       },
       "original": {
