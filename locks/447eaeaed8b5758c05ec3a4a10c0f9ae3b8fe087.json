@@ -1,0 +1,154 @@
+{
+  "nodes": {
+    "axlmc": {
+      "inputs": {
+        "nixpkgs": "nixpkgs",
+        "rust-overlay": "rust-overlay"
+      },
+      "locked": {
+        "lastModified": 1794144069,
+        "ref": "refs/heads/main",
+        "rev": "c19c80494c419cd5b45ca0c7423bdff6c11560bb",
+        "shallow": true,
+        "submodules": true,
+        "type": "git",
+        "url": "ssh://git@github.com/Axolotl-Launcher/Axolotl.git"
+      },
+      "original": {
+        "rev": "c19c80494c419cd5b45ca0c7423bdff6c11560bb",
+        "shallow": true,
+        "type": "git",
+        "url": "ssh://git@github.com/Axolotl-Launcher/Axolotl.git"
+      }
+    },
+    "home-manager": {
+      "inputs": {
+        "nixpkgs": [
+          "nixpkgs"
+        ]
+      },
+      "locked": {
+        "lastModified": 1794278858,
+        "narHash": "sha256-rkrJwLgLSHBnXfgoSKIDa+2LLGdTqynsV3GAxOTGhUU=",
+        "ref": "master",
+        "rev": "82ce401aa350502897c3f2e85f384d61cd3b0b6d",
+        "shallow": true,
+        "type": "git",
+        "url": "ssh://git@github.com/nix-community/home-manager.git"
+      },
+      "original": {
+        "ref": "master",
+        "shallow": true,
+        "type": "git",
+        "url": "ssh://git@github.com/nix-community/home-manager.git"
+      }
+    },
+    "kbdstat": {
+      "inputs": {
+        "nixpkgs": [
+          "nixpkgs"
+        ]
+      },
+      "locked": {
+        "lastModified": 1793883747,
+        "narHash": "sha256-ILvHSLkuiBjwOCup3MA4428H1SDAto9JncaLQgBEZmo=",
+        "ref": "refs/heads/main",
+        "rev": "a3765b9f035b0aea7bcc576799f06c531fb33cfe",
+        "shallow": true,
+        "type": "git",
+        "url": "ssh://git@codeberg.org/AstroNot233/KbdStat.git"
+      },
+      "original": {
+        "shallow": true,
+        "type": "git",
+        "url": "ssh://git@codeberg.org/AstroNot233/KbdStat.git"
+      }
+    },
+    "nixpkgs": {
+      "locked": {
+        "lastModified": 1793726008,
+        "narHash": "sha256-jQp1wKvbwWdLBASTXkSi/VYmDJ5AbBi1WvcMt9HWJC8=",
+        "owner": "nixos",
+        "repo": "nixpkgs",
+        "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+        "type": "github"
+      },
+      "original": {
+        "owner": "nixos",
+        "ref": "nixos-unstable",
+        "repo": "nixpkgs",
+        "type": "github"
+      }
+    },
+    "nixpkgs_2": {
+      "locked": {
+        "lastModified": 1794042290,
+        "narHash": "sha256-ziZn2PvCJE5JEEpqTdxXwJpPB+L3YqoCpTAMCzyaP3U=",
+        "ref": "nixos-unstable",
+        "rev": "f4a03c008967841f2a0b3cb7c436fc6fc31671f6",
+        "shallow": true,
+        "type": "git",
+        "url": "ssh://git@github.com/NixOS/nixpkgs.git"
+      },
+      "original": {
+        "ref": "nixos-unstable",
+        "shallow": true,
+        "type": "git",
+        "url": "ssh://git@github.com/NixOS/nixpkgs.git"
+      }
+    },
+    "plangothic": {
+      "inputs": {
+        "nixpkgs": [
+          "nixpkgs"
+        ]
+      },
+      "locked": {
+        "lastModified": 1793884155,
+        "narHash": "sha256-It21GSk5fmGD/hWAy3EdmtIj3hcvjID+xQnj/5AZ6Jc=",
+        "ref": "refs/heads/main",
+        "rev": "f6c9d35bd0368a76c3ca6a8b85b6c635fa09e8ae",
+        "shallow": true,
+        "type": "git",
+        "url": "ssh://git@codeberg.org/AstroNot233/Plangothic.nix.git"
+      },
+      "original": {
+        "shallow": true,
+        "type": "git",
+        "url": "ssh://git@codeberg.org/AstroNot233/Plangothic.nix.git"
+      }
+    },
+    "root": {
+      "inputs": {
+        "axlmc": "axlmc",
+        "home-manager": "home-manager",
+        "kbdstat": "kbdstat",
+        "nixpkgs": "nixpkgs_2",
+        "plangothic": "plangothic"
+      }
+    },
+    "rust-overlay": {
+      "inputs": {
+        "nixpkgs": [
+          "axlmc",
+          "nixpkgs"
+        ]
+      },
+      "locked": {
+        "lastModified": 1793782363,
+        "narHash": "sha256-5Vod7vKm10hOilQvEhTwXbhBE+V0ZqXH0jBQJhkX3KQ=",
+        "owner": "oxalica",
+        "repo": "rust-overlay",
+        "rev": "7fcafdf6f0761462d68012aba6a627be3f008d68",
+        "type": "github"
+      },
+      "original": {
+        "owner": "oxalica",
+        "repo": "rust-overlay",
+        "type": "github"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}
