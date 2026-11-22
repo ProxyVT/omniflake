@@ -42,7 +42,7 @@ something from it.
 - 1,817 ship no usable lock file and use one computed by Nix
 - 19 held at an earlier revision, their newer one having failed to pin
 - One `follows` line in your flake redirects `nixpkgs` in every one of them
-- Last updated 2026-11-21
+- Last updated 2026-11-22
 <!-- END index-status -->
 
 ## Quickstart
