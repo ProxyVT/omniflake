@@ -27,6 +27,7 @@
       },
       "locked": {
         "lastModified": 1794427683,
+        "narHash": "sha256-o7ey9gEilsxaifqJWnBDlYSKbNWYQYtKwDyXeZU2kaU=",
         "owner": "numtide",
         "repo": "flake-utils",
         "rev": "cd489559845d81f673a12885576016c65cbe9363",
@@ -45,10 +46,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1794503285,
+        "lastModified": 1795777054,
+        "narHash": "sha256-BPDy7P1/vMbP5HKsuKxwM91ZR7JotM9O5gq2v5coSL0=",
         "owner": "wamserma",
         "repo": "flake-programs-sqlite",
-        "rev": "4464c22e7f9d729bcb2bc227c1614427a4c27d3d",
+        "rev": "10135a641efa61d778cfdf1547b065427b6e2479",
         "type": "github"
       },
       "original": {
@@ -60,6 +62,7 @@
     "nixpkgs": {
       "locked": {
         "lastModified": 1767313136,
+        "narHash": "sha256-16KkgfdYqjaeRGBaYsNrhPRRENs0qzkQVUooNHtoy2w=",
         "owner": "NixOS",
         "repo": "nixpkgs",
         "rev": "ac62194c3917d5f474c1a844b6fd6da2db95077d",
@@ -74,10 +77,11 @@
     },
     "nixpkgs-unstable": {
       "locked": {
-        "lastModified": 1794386569,
+        "lastModified": 1795234589,
+        "narHash": "sha256-f/VVvxf5RsQgWVhUtefoca5ktVg0DA2bnkMOcmSnozo=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "d4f25a3e562008648d45bcf2d70bcc7422cad84e",
+        "rev": "2786a2a72088ecf32aea5b3ec52099e6a7cff78f",
         "type": "github"
       },
       "original": {
@@ -95,10 +99,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1794560489,
+        "lastModified": 1795799926,
+        "narHash": "sha256-RfU1FEo7lWplKtSY2b9EvyodhYSDMGiic256+xuXvGU=",
         "owner": "nix-community",
         "repo": "NUR",
-        "rev": "635674b6db2f922829ed4ce02af70bd1562ae12c",
+        "rev": "25474e70dec80ac6064d5aff2c9a784822eda417",
         "type": "github"
       },
       "original": {
@@ -128,6 +133,7 @@
       },
       "locked": {
         "lastModified": 1726259531,
+        "narHash": "sha256-84sIM3Gd7e6PhjsBT2EiiAInJlKQsb4HpgUPTYr6eg0=",
         "owner": "Noodlez1232",
         "repo": "suyu-flake",
         "rev": "e3ea28163248edaf5fe2a65f92e9ef3593bdc20a",

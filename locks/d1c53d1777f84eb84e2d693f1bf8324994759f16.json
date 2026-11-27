@@ -210,11 +210,11 @@
         "rust-overlay": "rust-overlay"
       },
       "locked": {
-        "lastModified": 1793349123,
-        "narHash": "sha256-RvxNXlwCF6ER4crGdAHpc7qFLGGyU92pmfgWVLuF/XM=",
+        "lastModified": 1795274064,
+        "narHash": "sha256-Igdhp1oatjrzEdPEubujNiFA1bUcWEJOOqa2Mrnwgts=",
         "owner": "chojs23",
         "repo": "concord",
-        "rev": "2ad3e105a04be5464807dbdf9891dc8abfbd5d74",
+        "rev": "9d2b18c63286423359db3d4920334529227ce44c",
         "type": "github"
       },
       "original": {
@@ -890,6 +890,26 @@
         "type": "github"
       }
     },
+    "metrolist": {
+      "inputs": {
+        "nixpkgs": [
+          "nixpkgs"
+        ]
+      },
+      "locked": {
+        "lastModified": 1794669782,
+        "narHash": "sha256-JX6aFO1RpRWgYNuhD/7mqsMuLyU1Nb2dWTxxI7Xshu8=",
+        "owner": "MetrolistGroup",
+        "repo": "Metrolist",
+        "rev": "5c5bbab164ed8d61b2ed6a07f97f2f16ff395356",
+        "type": "github"
+      },
+      "original": {
+        "owner": "MetrolistGroup",
+        "repo": "Metrolist",
+        "type": "github"
+      }
+    },
     "nix": {
       "inputs": {
         "flake-compat": [
@@ -1371,11 +1391,11 @@
     },
     "nixpkgs-multiverse": {
       "locked": {
-        "lastModified": 1793374604,
-        "narHash": "sha256-Kv7L62JHTk5TIBRNMjqoGLhGp5Ra98spPeBLyt8rQig=",
+        "lastModified": 1794983104,
+        "narHash": "sha256-J6j8l34sRKvsFNtGtBuvSg897RPKed9cBKvtqqZ4h3U=",
         "owner": "fzakaria",
         "repo": "nixpkgs-multiverse",
-        "rev": "cfa9032dcf30c7aee5fa77a3897144b8ffa953a1",
+        "rev": "283c4bfcc742ea2c002326654a0ddae73703d7bc",
         "type": "github"
       },
       "original": {
@@ -1639,11 +1659,11 @@
         "nixpkgs-x86_64-darwin": "nixpkgs-x86_64-darwin"
       },
       "locked": {
-        "lastModified": 1794267401,
-        "narHash": "sha256-yeTD5gnq2jPZd4Q9BHgTpBNi8N6nulMmpWpDj6xE/+4=",
+        "lastModified": 1794757451,
+        "narHash": "sha256-uu1YS9tPNDfWrTaWyJdxjrWglAeexLx5tlos3pcdA7s=",
         "owner": "lukasl-dev",
         "repo": "pi.nix",
-        "rev": "fb02ea6dbc8d72185de7b70cf13b4df1c6a633d8",
+        "rev": "44605904d20ca83868625167292fa5487cdcff13",
         "type": "github"
       },
       "original": {
@@ -1713,6 +1733,7 @@
         "import-tree": "import-tree",
         "input-branches": "input-branches",
         "manifesto": "manifesto",
+        "metrolist": "metrolist",
         "nix-atopile": "nix-atopile",
         "nix-cachyos-kernel": "nix-cachyos-kernel",
         "nix-claude-code": "nix-claude-code",
