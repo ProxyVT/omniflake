@@ -2,20 +2,20 @@
  "baseUrl": "https://github.com/ProxyVT/omniflake/releases/download",
  "files": {
   "candidates.jsonl": {
-   "narHash": "sha256-UGXgt8MyVZNku/RC8B0oOaD7vSdYHoay58LVRFP6OyE=",
-   "tag": "data-20261128"
+   "narHash": "sha256-uQyoKspcwH7poIMNiUNw1m8fGqybgY6XE1RLH2Cd8Zs=",
+   "tag": "data-20261128-2"
   },
   "pins.jsonl": {
-   "narHash": "sha256-Cry4J/sRuFFl9/hfyk8JulapT1la+qXt4wXeCuscl3s=",
-   "tag": "data-20261128"
+   "narHash": "sha256-cbQHmddT12N4KojdnP7TOKsew/8EEmUncG2PYA0N+Yk=",
+   "tag": "data-20261128-2"
   },
   "rejects.jsonl": {
-   "narHash": "sha256-5RZuWNNgYLvJbIEMVl8juK9AUggc6jU40jmv1AJd0Us=",
-   "tag": "data-20261128"
+   "narHash": "sha256-LcRJvBVF41b9Yic7x8W8jsvyRpq8pTyZIVp3jqisHmY=",
+   "tag": "data-20261128-2"
   },
   "resolved.jsonl": {
-   "narHash": "sha256-9hiR0HPD7ITbK0J9Wsl98K6m6cPP/Bbm1qIDThtHf3Q=",
-   "tag": "data-20261128"
+   "narHash": "sha256-uMBcN2TqKTVlEDWr7X9vtkKjYZIx279gWCiqZArvYF0=",
+   "tag": "data-20261128-2"
   }
  },
  "version": 1
